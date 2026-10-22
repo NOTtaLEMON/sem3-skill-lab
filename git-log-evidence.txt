@@ -1,3 +1,5 @@
+* 9428018 Simplify page layout and stylesheet
+* 2a4af47 Add Git history evidence
 *   fc06ab8 Merge feature/contact-section into main
 |\  
 | * 85c5cf6 Add contact email to footer
