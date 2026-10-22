@@ -1,0 +1,6 @@
+*   fc06ab8 Merge feature/contact-section into main
+|\  
+| * 85c5cf6 Add contact email to footer
+|/  
+* 599857f Add README
+* cc65516 Add semantic HTML page and external stylesheet
