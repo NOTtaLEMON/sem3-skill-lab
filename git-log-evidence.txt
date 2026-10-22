@@ -1,3 +1,5 @@
+* caed08d Describe only features the page actually has
+* a85e6ef Update Git history evidence
 * 9428018 Simplify page layout and stylesheet
 * 2a4af47 Add Git history evidence
 *   fc06ab8 Merge feature/contact-section into main
